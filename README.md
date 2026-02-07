@@ -54,7 +54,7 @@ Atuo criando soluções orientadas a dados, desde a ingestão até a entrega de 
 
 ## 📫 Onde me encontrar
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/evandroviero/](https://linkedin.com)
+- 💼 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/evandroviero/)
 - 📧 Email: evandro.viero@gmail.com
 
 ---
